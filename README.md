@@ -1,27 +1,29 @@
-> whoami
+# 👨‍💻 Casianus – Frontend Engineer
 
-👨‍💻  Casianus – Web Developer from Berlin
+**Location:** Berlin 🇩🇪  
+**Experience:** 15+ years  
+**Focus:** Performance · Accessibility · Modern UI  
 
-> tech-stack --list
+---
 
-🟢 Vue.js  
-🔵 React  
-🌊 Tailwind CSS  
-🌀 GSAP  
-🟠 TYPO3  
-🔥 Laravel  
-🧠 Platform.sh  
-⚡ Vite  
-🛠️ WordPress & Shopware
+### 🧰 Tech Stack
+- **Languages:** JavaScript, PHP, HTML, SCSS
+- **Frontend:** Vue.js, React, GSAP, Tailwind CSS
+- **Build Tools:** Vite, Webpack, Composer
+- **CMS/E-Commerce:** TYPO3, Shopware, WordPress
+- **Tools:** Git, SSH, Platform.sh, CI/CD
 
-> philosophy
+---
 
-- fast interfaces  
-- accessible code  
-- no bullshit  
-- works on prod™
+### 🔎 Key Topics
+- 🎯 Atomic Design Principles  
+- 🧪 BitV Accessibility Testing (BITV-Test)  
+- 🎛️ Shadow DOM / Web Components  
+- 🛠️ Custom Animation Engines with GSAP  
+- 🚀 Lazy loading + performance tuning (Vite, Kolibri UI)
 
-> contact
+---
 
-📧 casianus@me.com  
-🌐 https://pixelcoda.de
+### 💬 Contact
+📫 [casianus@me.com](mailto:casianus@me.com)  
+🌐 [pixelcoda.de](https://pixelcoda.de)
