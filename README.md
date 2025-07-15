@@ -28,6 +28,3 @@
 📫 [casianus@me.com](mailto:casianus@me.com)  
 🌐 [pixelcoda.de](https://pixelcoda.de)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=casianus&show_icons=true&theme=dracula&hide=stars&count_private=true" />
-</p>
