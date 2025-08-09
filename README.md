@@ -1,120 +1,110 @@
-<!doctype html>
-<html lang="de">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Casianus – Frontend Engineer · Berlin</title>
+# 👨‍💻 Casianus
 
-  <!-- Optional: Tailwind CDN für schnelle, saubere Typo/Spacing -->
-  <script src="https://cdn.tailwindcss.com"></script>
+**Frontend Engineer · Berlin**  
+🧪 15+ years experience in UI engineering, accessibility, and performance.
 
-  <style>
-    /* Grundstyles ohne Tailwind-Abhängigkeit (falls du es entfernst) */
-    :root { color-scheme: light dark; }
-    body { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial; }
-    @media (prefers-reduced-motion: reduce) { .a, .anim { animation: none !important; }
-      svg .a animate, svg .a animateTransform { display: none !important; } }
+---
 
-    /* dezentes Container-Layout */
-    .wrap { max-width: 760px; margin: 48px auto; padding: 0 20px; }
-  </style>
-</head>
-<body class="bg-white text-slate-900 dark:bg-slate-900 dark:text-slate-100">
-  <main class="wrap">
-    <!-- Header -->
-    <header class="mb-8">
-      <h1 class="text-2xl md:text-3xl font-extrabold leading-tight">👨‍💻 Casianus</h1>
-      <p class="text-lg text-slate-600 dark:text-slate-300">Frontend Engineer · Berlin</p>
-      <p class="mt-2">🧪 15+ years experience in UI engineering, accessibility, and performance.</p>
-    </header>
+## 🛠 Tech Stack
+<span style="vertical-align:middle; display:inline-block; margin-right:6px;">
+  <!-- Chip-Icon (animiert) -->
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" role="img" aria-label="Tech Stack">
+    <title>Tech Stack</title>
+    <g stroke="#60a5fa" stroke-width="2" vector-effect="non-scaling-stroke">
+      <rect x="5" y="5" width="14" height="14" rx="2"/>
+      <path d="M8 9h8M8 12h5M8 15h8" stroke-linecap="round" stroke-dasharray="2 4">
+        <animate attributeName="stroke-dashoffset" values="0;12" dur="1.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M3 8h2M3 12h2M3 16h2M21 8h-2M21 12h-2M21 16h-2" stroke-linecap="round"/>
+    </g>
+  </svg>
+</span>
 
-    <!-- Tech Stack -->
-    <section class="mt-10">
-      <h2 class="text-xl font-bold flex items-center gap-2">
-        <!-- Einzigartiges animiertes Inline‑SVG (Chip) -->
-        <span class="inline-flex">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none"
-               role="img" aria-label="Tech Stack" class="text-sky-500 dark:text-amber-300">
-            <title>Tech Stack</title>
-            <g stroke="currentColor" stroke-width="2" vector-effect="non-scaling-stroke">
-              <rect x="5" y="5" width="14" height="14" rx="2"/>
-              <path class="a" d="M8 9h8M8 12h5M8 15h8" stroke-linecap="round" stroke-dasharray="2 4">
-                <animate attributeName="stroke-dashoffset" values="0;12" dur="1.8s" repeatCount="indefinite"/>
-              </path>
-              <g opacity=".9">
-                <path d="M3 8h2M3 12h2M3 16h2M21 8h-2M21 12h-2M21 16h-2" stroke-linecap="round"/>
-              </g>
-            </g>
-          </svg>
-        </span>
-        <span>🛠 Tech Stack</span>
-      </h2>
+**💻 Languages**  
+🟨 JavaScript · 🐘 PHP · 🔤 HTML · 🎨 SCSS
 
-      <div class="mt-4 space-y-4">
-        <div>
-          <h3 class="font-semibold">💻 Languages</h3>
-          <p>🟨 JavaScript · 🐘 PHP · 🔤 HTML · 🎨 SCSS</p>
-        </div>
+**⚙️ Frameworks & Libraries**  
+🧩 Vue 3 · Nuxt.js · ⚛️ React · 🎞 GSAP · 🌬 Tailwind CSS
 
-        <div>
-          <h3 class="font-semibold">⚙️ Frameworks &amp; Libraries</h3>
-          <p>🧩 Vue 3 · Nuxt.js · ⚛️ React · 🎞 GSAP · 🌬 Tailwind CSS</p>
-        </div>
+**🧱 Build Tools**  
+⚡️ Vite · 📦 Webpack · 🎼 Composer
 
-        <div>
-          <h3 class="font-semibold">🧱 Build Tools</h3>
-          <p>⚡️ Vite · 📦 Webpack · 🎼 Composer</p>
-        </div>
+**🗂 CMS & E‑Commerce**  
+🧮 TYPO3 · 🛒 Shopware · 📝 WordPress
 
-        <div>
-          <h3 class="font-semibold">🗂 CMS &amp; E‑Commerce</h3>
-          <p>🧮 TYPO3 · 🛒 Shopware · 📝 WordPress</p>
-        </div>
-      </div>
-    </section>
+---
 
-    <!-- Optional: Projekte (Platzhalter – kann erweitert werden) -->
-    <section class="mt-10">
-      <h2 class="text-xl font-bold">🚀 Selected Projects</h2>
-      <ul class="mt-4 list-disc pl-6 space-y-1">
-        <li><strong>🧠 devolo.de</strong> — TYPO3 + Shopware — Integrated content &amp; commerce</li>
-        <li><strong>🎒 kuppelkucker.de</strong> — Accessible TYPO3 site for kids (German Bundestag)</li>
-        <li><strong>🏥 flexdoc.de</strong> — Medical platform with TYPO3 + React dashboards</li>
-        <li><strong>🌐 baloop.de</strong> — Headless TYPO3 with Nuxt.js frontend</li>
-        <li><strong>🌱 klima-plattform.de</strong> — Campaign platform (TYPO3 + PHPFox)</li>
-      </ul>
-    </section>
+## 🚀 Selected Projects
+<span style="vertical-align:middle; display:inline-block; margin-right:6px;">
+  <!-- Raketen-Icon (sanftes Wippen) -->
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" role="img" aria-label="Projects">
+    <title>Selected Projects</title>
+    <g stroke="#f87171" stroke-width="2" vector-effect="non-scaling-stroke">
+      <path d="M12 3c3 0 6 3 6 6l-6 6-6-6c0-3 3-6 6-6z"/>
+      <circle cx="14.5" cy="8.5" r="1.5" fill="#f87171" stroke="none"/>
+      <path d="M12 15l-2 6 4-3 4 3-2-6" stroke-linejoin="round"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -0.6; 0 0" dur="2s" repeatCount="indefinite"/>
+    </g>
+  </svg>
+</span>
 
-    <!-- Optional: Fokusbereiche -->
-    <section class="mt-10">
-      <h2 class="text-xl font-bold">🧭 Focus Areas</h2>
-      <ul class="mt-4 list-disc pl-6 space-y-1">
-        <li>⚡️ Web performance (Lighthouse, Core Web Vitals)</li>
-        <li>♿ Accessibility (WCAG / BITV)</li>
-        <li>🧬 Design Systems &amp; Atomic Design</li>
-        <li>🧩 Web Components · Shadow DOM</li>
-        <li>🌀 GSAP animation + scroll behaviors</li>
-        <li>🧪 Vite + Kolibri UI for ultra-fast delivery</li>
-      </ul>
-    </section>
+- **🧠 devolo.de** — TYPO3 + Shopware — Integrated content & commerce  
+- **🎒 kuppelkucker.de** — Accessible TYPO3 site for kids (German Bundestag)  
+- **🏥 flexdoc.de** — Medical platform with TYPO3 + React dashboards  
+- **🌐 baloop.de** — Headless TYPO3 with Nuxt.js frontend  
+- **🌱 klima-plattform.de** — Campaign platform (TYPO3 + PHPFox)
 
-    <!-- Kontakt -->
-    <section class="mt-10">
-      <h2 class="text-xl font-bold">📫 Contact</h2>
-      <p class="mt-2">
-        ✉️ <a href="mailto:casianus@me.com" class="text-sky-600 dark:text-amber-300 underline">casianus@me.com</a><br/>
-        🌐 <a href="https://pixelcoda.de" class="text-sky-600 dark:text-amber-300 underline">pixelcoda.de</a>
-      </p>
-    </section>
+---
 
-    <footer class="mt-12 text-sm text-slate-500 dark:text-slate-400">
-      <p>© <span id="y"></span> Casianus · Built with love &amp; SVG.</p>
-    </footer>
-  </main>
+## 🧭 Focus Areas
+<span style="vertical-align:middle; display:inline-block; margin-right:6px;">
+  <!-- Radar-Icon (Sweep per Maske) -->
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" role="img" aria-label="Focus Areas">
+    <title>Focus Areas</title>
+    <defs>
+      <mask id="sweep">
+        <rect width="24" height="24" fill="white"/>
+        <path d="M12 12 L22 12 A10 10 0 0 0 12 2Z" fill="black">
+          <animateTransform attributeName="transform" type="rotate" from="0 12 12" to="360 12 12" dur="3s" repeatCount="indefinite"/>
+        </path>
+      </mask>
+    </defs>
+    <g stroke="#22c55e" stroke-width="2" vector-effect="non-scaling-stroke">
+      <circle cx="12" cy="12" r="9"/>
+      <circle cx="12" cy="12" r="6" opacity=".6"/>
+      <circle cx="12" cy="12" r="3" opacity=".4"/>
+      <line x1="12" y1="12" x2="21" y2="12" mask="url(#sweep)"/>
+    </g>
+  </svg>
+</span>
 
-  <script>
-    // aktuelles Jahr im Footer
-    document.getElementById('y').textContent = new Date().getFullYear();
-  </script>
-</body>
-</html>
+- ⚡️ Web performance (Lighthouse, Core Web Vitals)  
+- ♿ Accessibility (WCAG / BITV)  
+- 🧬 Design Systems & Atomic Design  
+- 🧩 Web Components · Shadow DOM  
+- 🌀 GSAP animation + scroll behaviors  
+- 🧪 Vite + Kolibri UI for ultra-fast delivery
+
+---
+
+## 📫 Contact
+<span style="vertical-align:middle; display:inline-block; margin-right:6px;">
+  <!-- Brief-Icon (Puls) -->
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" role="img" aria-label="Contact">
+    <title>Contact</title>
+    <g stroke="#22c55e" stroke-width="2" vector-effect="non-scaling-stroke">
+      <rect x="3" y="5" width="18" height="14" rx="2"/>
+      <path d="M3 7l9 7 9-7" stroke-linecap="round"/>
+      <rect x="3" y="5" width="18" height="14" rx="2" opacity=".25">
+        <animate attributeName="opacity" values=".25;.6;.25" dur="2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </svg>
+</span>
+
+✉️ **casianus@me.com**  
+🌐 **https://pixelcoda.de**
+
+---
+
+<sub>*(Animationen respektieren GitHub‑Kontext: Inline‑SVG/SMIL ohne externe Abhängigkeiten. Falls Nutzer „Bewegung reduzieren“ aktiviert haben, kann GitHub das nicht global beeinflussen; auf Profil‑Seiten ist SMIL meist erlaubt.)*</sub>
