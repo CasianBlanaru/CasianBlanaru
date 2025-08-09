@@ -4,25 +4,6 @@
 
 ---
 
-
-
-<svg width="18" height="18" viewBox="0 0 24 24" fill="none"
-     role="img" aria-label="Tech Stack" style="vertical-align:middle">
-  <title>Tech Stack</title>
-  <style>
-    @media (prefers-reduced-motion: reduce) { .a { animation: none; } }
-  </style>
-  <g stroke="currentColor" stroke-width="2" vector-effect="non-scaling-stroke">
-    <rect x="5" y="5" width="14" height="14" rx="2"/>
-    <path class="a" d="M8 9h8M8 12h5M8 15h8" stroke-linecap="round"
-          stroke-dasharray="2 4">
-      <animate attributeName="stroke-dashoffset" values="0;12" dur="1.8s" repeatCount="indefinite"/>
-    </path>
-    <g opacity=".9">
-      <path d="M3 8h2M3 12h2M3 16h2M21 8h-2M21 12h-2M21 16h-2" stroke-linecap="round"/>
-    </g>
-  </g>
-</svg>
 ## 🛠 Tech Stack <svg width="18" height="18" viewBox="0 0 24 24" fill="none" style="vertical-align:middle"><path d="M4 4h16v16H4z" stroke="#60a5fa" stroke-width="2"><animate attributeName="stroke" values="#60a5fa;#fbbf24;#60a5fa" dur="2.8s" repeatCount="indefinite"/></path></svg>
 
 **💻 Languages**  
