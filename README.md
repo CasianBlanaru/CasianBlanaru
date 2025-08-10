@@ -4,8 +4,8 @@
 ==================== -->
 <p align="center">
   <img 
-    src="https://i.postimg.cc/ZqQK53zq/github-header.png" 
-    alt="Muhammad Tanveer Abbas | GitHub Profile Banner" 
+    src="" 
+    alt="Casian Blanaru | GitHub Profile Banner" 
   />
 </p>
 
@@ -42,10 +42,10 @@
 ==================== -->
 <h3 align="center">Let's Connect 🔗</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/MuhammadTanveerAbbas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="hxhttps://de.linkedin.com/in/blanaru-casian-16698a66?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">
+    <img src="./assets/icons/LinkedIn-0077B5.svg" alt="LinkedIn"/>
   </a>
-  <a href="mailto:muhammadtanveerabbas.dev@gmail.com">
+  <a href="mailto:casianusdesign@me.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
