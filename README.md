@@ -8,14 +8,14 @@
     alt="Casian Blanaru | GitHub Profile Banner" 
   />
 </p>
-
+xxxxx
 <!-- ====================
-     Tech Stack & Tools
+     Tech Stack & Toolsxx
 ==================== -->
 <h3 align="center">My Tech Stack 🛠️</h3>
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center">1
       <strong>Frontend</strong><br/>
       <img src="./assets/icons/" alt="Frontend Stack" />
     </td>
