@@ -8,31 +8,30 @@
     alt="Casian Blanaru | GitHub Profile Banner" 
   />
 </p>
-xxxxx
+Casian Blanaru 
 <!-- ====================
      Tech Stack & Toolsxx
 ==================== -->
 <h3 align="center">My Tech Stack 🛠️</h3>
-<table align="center">
+<table align="center" style="width: 100%; max-width: 1200px;">
   <tr>
-    <td align="center">1
-      <strong>Frontend</strong><br/>
-      <img src="./assets/icons/frontend.png" alt="Frontend Stack" style="
-    width: 600px;"/>
+    <td align="center" style="width: 50%;">
+      <strong>Frontend</strong><br/><br/>
+      <img src="./assets/icons/frontend.png" alt="Frontend Stack" style="width: 100%; max-width: 560px;"/>
     </td>
-    <td align="center">
-      <strong>Backend</strong><br/>
-      <img src="./assets/icons/npm.svg" alt="Backend Stack" />
+    <td align="center" style="width: 50%;">
+      <strong>Backend</strong><br/><br/>
+      <img src="./assets/icons/backend.png" alt="Backend Stack" style="width: 100%; max-width: 560px;"/ >
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <strong>DevOps & Deployment</strong><br/>
-      <img src="./assets/icons/dev-ops.svg" alt="DevOps Stack" />
+    <td align="center" style="width: 50%;">
+      <strong>DevOps & Deployment</strong><br/><br/>
+      <img src="./assets/icons/devops.png" alt="DevOps Stack"  style="width: 100%; max-width: 560px;"/>
     </td>
-    <td align="center">
-      <strong>Tools & Platforms</strong><br/>
-      <img src="./assets/icons/platforms" alt="Tools & Platforms" />
+    <td align="center" style="width: 50%;">
+      <strong>Tools & Platforms</strong><br/><br/>
+      <img src="./assets/icons/tools.png" alt="Tools & Platforms"  style="width: 100%; max-width: 560px;" />
     </td>
   </tr>
 </table>
