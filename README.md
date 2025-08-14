@@ -17,7 +17,8 @@ xxxxx
   <tr>
     <td align="center">1
       <strong>Frontend</strong><br/>
-      <img src="./assets/icons/" alt="Frontend Stack" />
+      <img src="./assets/icons/frontend.png" alt="Frontend Stack" style="
+    width: 600px;"/>
     </td>
     <td align="center">
       <strong>Backend</strong><br/>
