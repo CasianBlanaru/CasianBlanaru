@@ -54,8 +54,6 @@
 ==================== -->
 <h3 align="center">🚀 Featured Projects</h3>
 <p align="center">
-  <a href="https://kuppelkucker.de" target="_blank">🧒 kuppelkucker.de</a> – Kinderportal des Bundestags (barrierefrei, TYPO3)<br/>
-  <a href="https://flexdoc.de" target="_blank">⚕️ flexdoc.de</a> – Digitale Ärztevermittlung (React, Laravel, API)<br/>
   <a href="https://pixelcoda.de" target="_blank">💼 pixelcoda.de</a> – Mein Entwicklerportfolio
 </p>
 
