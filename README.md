@@ -3,7 +3,7 @@
 ==================== -->
 <p align="center">
   <img 
-    src="./assets/casianus.png" 
+    src="./assets/casianus.jpg" 
     alt="Casian Blanaru | GitHub Profile Banner" 
   />
 </p>
